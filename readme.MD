@@ -1,23 +1,23 @@
-微信公众号 瓜皮机器人源码公开
+微信公众号 瓜皮机器人 源码公开
 
 这是一个个人练手项目，主要完成了以下的功能:(公众号已经关闭了，想看效果的小伙伴不用搜索了，直接看下面的截图)
 
 1 公众号自动回复   （需要对接一个我自己写的语义聊天云服务器接口，有商务需要的可以和我联系qq 2907023643）
 
-![avatar]('http://redtreeblog-1253690989.cosgz.myqcloud.com/guapi/118892967.jpg')
+![avatar](http://redtreeblog-1253690989.cosgz.myqcloud.com/guapi/118892967.jpg)
 
 2 看图说话  （这里使用的是腾讯AILAB 的看图说话接口）
 
-![avatar]('http://redtreeblog-1253690989.cosgz.myqcloud.com/guapi/1449614548.jpg')
+![avatar](http://redtreeblog-1253690989.cosgz.myqcloud.com/guapi/1449614548.jpg)
 
 3 微信支付  (python写的接入，网上这部分资料蛮少的，算是帮大家踩坑了)
 
 4 H5商城()   （没有什么前端功底，凑合看）
 
-![avatar]('http://redtreeblog-1253690989.cosgz.myqcloud.com/guapi/1701434209.jpg')
-![avatar]('http://redtreeblog-1253690989.cosgz.myqcloud.com/guapi/2027057950.jpg')
-![avatar]('http://redtreeblog-1253690989.cosgz.myqcloud.com/guapi/341708063.jpg')
-![avatar]('http://redtreeblog-1253690989.cosgz.myqcloud.com/guapi/885331751.jpg')
+![avatar](http://redtreeblog-1253690989.cosgz.myqcloud.com/guapi/1701434209.jpg)
+![avatar](http://redtreeblog-1253690989.cosgz.myqcloud.com/guapi/2027057950.jpg)
+![avatar](http://redtreeblog-1253690989.cosgz.myqcloud.com/guapi/341708063.jpg)
+![avatar](http://redtreeblog-1253690989.cosgz.myqcloud.com/guapi/885331751.jpg)
 
 
 服务端采用PYTHON -FLASK 框架编写,商城使用VUE+MintUI组件。
